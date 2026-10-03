@@ -1,6 +1,6 @@
 # 🍰 Dulce Vida Web
 
-Plataforma FullStack para gestión y venta de repostería.
+Desarrollé por mi cuenta esta plataforma full stack para gestionar y vender productos de repostería. Un amigo me apoyó con un commit puntual.
 
 Frontend: React + Vite | Backend: Spring Boot | Autenticación: JWT
 
@@ -166,6 +166,6 @@ Añade un archivo `LICENSE` si quieres publicar el proyecto con una licencia exp
 
 ## ✉️ Autor
 
-Ignacio Silva — FullStack Dev — https://github.com/iggn00
+Ignacio Silva — desarrollador del proyecto — [@yvvvl](https://github.com/yvvvl)
 
 Hecho con ❤️ y mucho ☕
