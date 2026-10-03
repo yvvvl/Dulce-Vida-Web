@@ -166,6 +166,6 @@ Añade un archivo `LICENSE` si quieres publicar el proyecto con una licencia exp
 
 ## ✉️ Autor
 
-Ignacio Silva — desarrollador del proyecto — [@yvvvl](https://github.com/yvvvl)
+Desarrollé este proyecto — [Ignacio Silva (@yvvvl)](https://github.com/yvvvl)
 
 Hecho con ❤️ y mucho ☕
